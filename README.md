@@ -1,0 +1,2 @@
+# Aggregated-Analysis-of-ClinicalTrials.gov
+Aggregated Analysis of ClinicalTrials.gov (AACT) publicly available database is imported into a PostgreSQL database for Cancer Research Analysis. This database contains more than 40 relations, each having millions of records. Complex pSQL queries are used to communicate with the PostgreSQL database using pgAdmin 4. Answers related to cancer trials, related adverse events and outcomes, result of intervention study, etc. are answered. The analyses is concluded by visualizing the key points using Tableau.
